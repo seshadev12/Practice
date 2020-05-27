@@ -1,0 +1,15 @@
+how to install jenkins
+
+1) sudo wget -O /etc/yum.repos.d/jenkins.repo http://pkg.jenkins-ci.org/redhat/jenkins.repo
+2) sudo rpm --import https://jenkins-ci.org/redhat/jenkins-ci.org.key
+3) sudo yum install jenkins
+4) 
+
+
+5) copy the public id 
+7) run with url (tab) prvitid:8080 
+8) copy the path line 
+9) coms to aws sudo cat copy paste 8th one 
+9) get passwrd copy that
+10) paste to 8th path will get 
+
